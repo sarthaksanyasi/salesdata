@@ -3,6 +3,7 @@
 # Technique used:
 I used Python Pandas library with Python to analyze and answer business questions about Wallmart's sales data.
 **Python Libraries:** Seaborn, pandas, matplotlib
+
 Data cleaning, data analysis
 
 **Here are the questions which have been asked to data for doing the detailed analysis:**
