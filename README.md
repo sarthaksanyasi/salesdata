@@ -1,9 +1,11 @@
 # salesdata
 # Objective: Data Manipulation and exploring with Pandas.
 # Technique used:
-I use Python Pandas & Python to analyze and answer business questions about SuperStore of sales data.
-Seaborn, pandas, matplotlib
+I used Python Pandas library with Python to analyze and answer business questions about Wallmart's sales data.
+**Python Libraries:** Seaborn, pandas, matplotlib
 Data cleaning, data analysis
+
+**Here are the questions which have been asked to data for doing the detailed analysis:**
 
 1.	Which are the most selling products?
 2.	Which are the Top 10 products by sales?
